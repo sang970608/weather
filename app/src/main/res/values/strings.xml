@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weatherKt</string>
+    <string name="naver_client_id">T0fUOgPOjuNmoQjkfcq2</string>
+    <string name="naver_client_secret">37BC63Rzqc</string>
+    <string name="naver_client_name">Weather</string>
+    <string name="KAKAO_APP_KEY">f1b77d5be1ff5377c41f6874a60f1adc</string>
+</resources>
